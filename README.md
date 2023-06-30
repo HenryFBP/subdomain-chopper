@@ -9,6 +9,10 @@ This chops off parts of subdomains.
     pip install subdomain_chopper
     python3 -m subdomain_chopper.py --help
 
+## Releasing to pypi
+
+    poetry publish --build
+
 ## Help
 
 ```
