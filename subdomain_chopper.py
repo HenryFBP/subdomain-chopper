@@ -83,7 +83,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--domainfile")
+    parser.add_argument("--domainfile", required=True, help="Path to a newline-separated list of domains.")
     args = parser.parse_args()
 
     domain_file_path = args.domainfile
