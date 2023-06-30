@@ -11,4 +11,4 @@ This chops off parts of subdomains.
 
 Example:
 
-    python3 subdomain-chopper.py --domainfile domains.txt
+    python3 src/subdomain-chopper.py --domainfile domains.txt
