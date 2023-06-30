@@ -1,5 +1,7 @@
 # Subdomain Chopper
 
+[![PyPI version](https://badge.fury.io/py/subdomain-chopper.svg)](https://badge.fury.io/py/subdomain-chopper)
+
 This chops off parts of subdomains.
 
 ## Installing
